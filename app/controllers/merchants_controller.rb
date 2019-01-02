@@ -38,7 +38,6 @@ class MerchantsController < ApplicationController
     target_item = Item.find(params[:item_id])
     target_item.inventory_qty -= target_oi.first.quantity
     target_item.save
-    # require "pry"; binding.pry
     flash[:success] = "The item has been fulfilled."
     if this_order.completely_fulfilled?
       this_order.status = "complete"
