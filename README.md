@@ -9,7 +9,6 @@ Our app is deployed on heroku at: [Myxology](https://limitless-everglades-19318.
 
 ![Myxology](/.readme/mixology.jpg)
 
-
 We created an online application where visitors, registered users, merchants, and admins have a variety of interactions with our fictitious shop. Each user type has some degree of authentication and authorization on our site. A user must be registered before checking out, but a visitor can shop up to checkout without being registered. Merchants can fulfill orders according to their inventory. Admins have authorization to enable and disable a user, as well as upgrading or downgrading a user or merchant, along with other functionality.
 
 ![Myxology](/.readme/cocktails.jpg)
