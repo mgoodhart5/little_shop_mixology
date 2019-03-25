@@ -26,7 +26,7 @@ gem install rails -v 5.1
 Clone down this repo!
 
 ```
-git clone https://github.com/cebarks/littleshop
+git clone git@github.com:mgoodhart5/little_shop_mixology.git
 ```
 
 ### Installing
@@ -34,7 +34,7 @@ git clone https://github.com/cebarks/littleshop
 From your terminal, navigate into the little_shop directory:
 
 ```
-cd little_shop
+cd little_shop_mixology
 ```
 
 Make sure your gemfile is up to date:
@@ -111,9 +111,9 @@ We worked with relational databases and queries with many to many relationships.
 
 ## Deployment
 
-Our app is deployed on heroku at: [Myxology](https://limitless-everglades-19318.herokuapp.com)
+Our app is deployed on heroku at: [Myxology](https://blooming-gorge-57232.herokuapp.com)
 
-`https://limitless-everglades-19318.herokuapp.com`
+`https://blooming-gorge-57232.herokuapp.com`
 
 ## Built With
 
@@ -132,7 +132,8 @@ Our app is deployed on heroku at: [Myxology](https://limitless-everglades-19318.
 * Mary Goodhart
 * Michael Clampett
 
-With assistance from: * Mary Bork
+With assistance from:
+* Mary Bork
 
 
 ## Acknowledgments
